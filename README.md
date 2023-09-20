@@ -1,7 +1,7 @@
 # Paket-Prabayar-Manakah-yang-Lebih-Baik
 
 # Pendahuluan
-Sebagai seorang analis di perusahaan telekomunikasi Megaline, proyek ini bertujuan untuk menentukan paket prabayar yang menghasilkan pendapatan lebih tinggi berdasarkan analisis data dari 500 pelanggan. Data tersebut mencakup informasi pelanggan, asal, jenis paket, serta aktivitas panggilan dan pesan pada tahun 2018. Tujuan utama proyek ini adalah membantu perusahaan mengoptimalkan pendapatan dan anggaran iklan mereka dengan memahami perilaku pelanggan..
+Sebagai seorang analis di perusahaan telekomunikasi Megaline, proyek ini bertujuan untuk menentukan paket prabayar yang menghasilkan pendapatan lebih tinggi berdasarkan analisis data dari 500 pelanggan. Data tersebut mencakup informasi pelanggan, asal, jenis paket, serta aktivitas panggilan dan pesan pada tahun 2018. Tujuan utama proyek ini adalah membantu perusahaan mengoptimalkan pendapatan dan anggaran iklan mereka dengan memahami perilaku pelanggan.
 
 Tujuan:
 - Dengan mencapai tujuan-tujuan ini, proyek ini diharapkan dapat membantu Megaline dalam meningkatkan pendapatan mereka dan mengambil keputusan yang lebih baik dalam pengelolaan paket prabayar mereka.
