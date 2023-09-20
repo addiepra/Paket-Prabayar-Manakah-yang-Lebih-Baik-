@@ -14,9 +14,13 @@ Tujuan:
 Di sini kita akan melakukan analisa dataset pada 5 dataset yaitu:
 
 "/datasets/megaline_calls.csv"
+
 "/datasets/megaline_internet.csv"
+
 "/datasets/megaline_messages.csv"
+
 "/datasets/megaline_plans.csv"
+
 "/datasets/megaline_users.csv"
 
 # Proyek ini terdiri dari 6 tahap:
