@@ -20,9 +20,14 @@ Di sini kita akan melakukan analisa dataset pada 5 dataset yaitu:
 "/datasets/megaline_users.csv"
 
 # Proyek ini terdiri dari 6 tahap:
-1.Inisialisasi
+1. Inisialisasi
+
 2. Memuat Data
+
 3. Mempersiapkan Data dan Memperbaiki Kualitas Data
+
 4. Mempelajari Syarat dan Kondisi Terkait Paket Prabayar
+
 5. Mengagregasi Data per Pengguna
+
 6. Mempelajari Perilaku Pengguna
